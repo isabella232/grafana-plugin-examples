@@ -2,8 +2,11 @@ version: '3.0'
 
 services:
   grafana:
-    container_name: grafana-basic-app
-    build: .
+    container_name: 'grafana-basic-app'
+    build: 
+      context: ./.config
+      args:
+        grafana_version: ${GRAFANA_VERSION:-latest}
     ports:
       - 3000:3000/tcp
     volumes:
