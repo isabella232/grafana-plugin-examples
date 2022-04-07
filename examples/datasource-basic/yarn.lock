@@ -1214,7 +1214,7 @@
   resolved "https://registry.yarnpkg.com/@grafana/aws-sdk/-/aws-sdk-0.0.31.tgz#ddc7f5e3f2f35e4ad5c43fdf3e8efe64c5a5303a"
   integrity sha512-AUgw19cAnwkg2QTwghlMk7cmLkjph4oQtH5S57hjX6XywlbUF3SXCoMwTXlqfM6oeBPVelCJ4zM9imtmBQFAVQ==
 
-"@grafana/data@8.4.5", "@grafana/data@latest":
+"@grafana/data@8.4.5":
   version "8.4.5"
   resolved "https://registry.yarnpkg.com/@grafana/data/-/data-8.4.5.tgz#31796c0118381a8de38b5b8635646acba6c60113"
   integrity sha512-/IU51N1//YTLP1t/qoSsUd+l51vB9DoAK5tw3ux0ppMJnX28OhLSLV3QGHmrP1PcSdFSTuOCormmQxg48bMv8Q==
@@ -1239,7 +1239,7 @@
     uplot "1.6.19"
     xss "1.0.10"
 
-"@grafana/e2e-selectors@8.4.5", "@grafana/e2e-selectors@latest":
+"@grafana/e2e-selectors@8.4.5":
   version "8.4.5"
   resolved "https://registry.yarnpkg.com/@grafana/e2e-selectors/-/e2e-selectors-8.4.5.tgz#e3679e98894dbfe02b0f2e3d67b3fc4e6dc92a12"
   integrity sha512-sfdafy76s5nCtrkyCMv8v2QMJTsypWFad5BHF4zL4nHbYEhhpZPbky13RufiqBImFeIWLM9Zmz7LDFFJVBhFtA==
@@ -1248,7 +1248,7 @@
     tslib "2.3.1"
     typescript "4.4.4"
 
-"@grafana/e2e@latest":
+"@grafana/e2e@8.4.5":
   version "8.4.5"
   resolved "https://registry.yarnpkg.com/@grafana/e2e/-/e2e-8.4.5.tgz#d22223bb7b1edbb00fab11d70aaeee4eadb6cd72"
   integrity sha512-3UTxH0CdXqQkuuW4UvNG60R7yQGgD/27VWqVks5+nEuo+DxWrAgzHbxdvks8C1Hm/EUUhmwj5GkaU/9AN74pWQ==
@@ -1294,7 +1294,7 @@
     prettier "2.5.1"
     typescript "4.4.4"
 
-"@grafana/runtime@latest":
+"@grafana/runtime@8.4.5":
   version "8.4.5"
   resolved "https://registry.yarnpkg.com/@grafana/runtime/-/runtime-8.4.5.tgz#66ee473a79fc0e41982a6e774d8878e3937867b1"
   integrity sha512-CJnBoiOP9J9Um3dw1WS8YnAO7yx1wtjZGo5DIFAtbqaQqq11Y8iANFJoIhyqY/Tg7YJ3NxNKxkxJvawmmQUwyA==
@@ -1350,7 +1350,7 @@
   resolved "https://registry.yarnpkg.com/@grafana/tsconfig/-/tsconfig-1.2.0-rc1.tgz#10973c978ec95b0ea637511254b5f478bce04de7"
   integrity sha512-+SgQeBQ1pT6D/E3/dEdADqTrlgdIGuexUZ8EU+8KxQFKUeFeU7/3z/ayI2q/wpJ/Kr6WxBBNlrST6aOKia19Ag==
 
-"@grafana/ui@8.4.5", "@grafana/ui@latest":
+"@grafana/ui@8.4.5":
   version "8.4.5"
   resolved "https://registry.yarnpkg.com/@grafana/ui/-/ui-8.4.5.tgz#4c91dd2c4ce00379388ae4b1f00ae9c0ae57f665"
   integrity sha512-ijPWNa+Oa7Ec0dPtVyPHhw0E7TaDD/ImXgNC+wfD/EG1jFEvqiuF6jz+AqpumQ0KuvZzC48ActOohENOg3PPag==
